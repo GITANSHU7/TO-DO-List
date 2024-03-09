@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #1b1a17;
+}
+
+@layer components {
+  .border-brand {
+    border-color: #a35709;
+  }
+  .text-brand {
+    color: #a35709;
+  }
+  .bg-brand {
+    background-color: #1b1a17;
+  }
+  .bg-brand-2 {
+    background-color: #a35709;
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+}
