@@ -13,6 +13,12 @@ body {
   .text-brand {
     color: #a35709;
   }
+  .background-design{
+    background-color: #a35709;
+  }
+  .delete-color{
+    color: #a35709;
+  }
   .bg-brand {
     background-color: #1b1a17;
   }
