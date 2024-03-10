@@ -10,10 +10,7 @@ import TodoList from './reducer/TodoList';
 const store = configureStore({
   reducer: {
     todos: TodoList
-    // Define a top-level state field named `todos`, handled by `todosReducer`
-    // todos: todosReducer,
-    // Define a top-level state field named `filters`, handled by `filtersReducer`
-    // filters: filtersReducer
+   
   }
 });
 
